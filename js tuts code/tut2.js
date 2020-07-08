@@ -1,0 +1,6 @@
+console.log('hello sagar')
+console.log(34+2)
+console.log([2,3,4,5,6,7,8,9])
+console.log(35.6)
+console.log({sagar:'this',marks:34})
+console.table({sagar:'this',marks:34})
